@@ -1,0 +1,22 @@
+# Ignore vs core files
+.vs/
+
+# Ignore build and intermediate folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userprefs
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Ignore project-specific generated files
+*.generated.*
+
